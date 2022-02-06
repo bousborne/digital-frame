@@ -27,6 +27,9 @@ maybe make the table a hash table of hashes for values. So, if an image was rena
 feh doesnt do crossfade, does fbi? if not, look into pi3d
 need to change hostname and check if it clashes
 
+Modules to consider: Daemon Driver, slideshow driver, file update driver, timecheck for shutdown driver, 
+
+
 # Usefule sites
 
 https://www.byobu.org/
@@ -37,6 +40,7 @@ https://pypi.org/project/picframe/
 https://stackoverflow.com/questions/41582334/how-do-i-change-the-hostname-using-python-on-a-raspberry-pi/49284621
 https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon/
 https://pypi.org/project/synology-api/
+https://global.download.synology.com/download/Document/Software/DeveloperGuide/Os/DSM/All/enu/DSM_Login_Web_API_Guide_enu.pdf
 
 # Useful commands
 
